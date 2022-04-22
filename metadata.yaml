@@ -1,0 +1,38 @@
+_repo: A-Mae_67767
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Lacerda, Augusto de
+    birthdate: 1864
+    deathdate: 1926
+    gutenberg_agent_id: '32588'
+    url: http://www.gutenberg.org/2009/agents/32588
+  - agent_name: Persky, Serge
+    birthdate: 1870
+    deathdate: 1938
+    gutenberg_agent_id: '35275'
+    url: http://www.gutenberg.org/2009/agents/35275
+creator:
+  author:
+    agent_name: Gorki, Maximo
+    gutenberg_agent_id: '54448'
+    url: http://www.gutenberg.org/2009/agents/54448
+description: ''
+gutenberg_issued: '2022-04-03'
+identifiers:
+  gutenberg: '67767'
+language: pt
+pgterms:marc905: 20080911061703gorki
+pgterms:marc906: '1907'
+pgterms:marc907: pt
+production_note: Pedro Saborano and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from scanned images of public domain material from the Google
+  Books project.)
+publication_note: Portugal :ANTIGA CASA BERTRAND,1907.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Mãe
+url: http://www.gutenberg.org/ebooks/67767
