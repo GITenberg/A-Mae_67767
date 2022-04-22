@@ -12,12 +12,17 @@ contributor:
     deathdate: 1938
     gutenberg_agent_id: '35275'
     url: http://www.gutenberg.org/2009/agents/35275
+covers:
+- cover_type: archival
+  image_path: 67767-h/images/cover.jpg
 creator:
   author:
     agent_name: Gorki, Maximo
     gutenberg_agent_id: '54448'
     url: http://www.gutenberg.org/2009/agents/54448
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67767#A-Mae
 gutenberg_issued: '2022-04-03'
 identifiers:
   gutenberg: '67767'
